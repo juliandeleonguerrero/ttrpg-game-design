@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Buffing and Nerfing",
+      "path": "Hazards/Hazard Mechanics/Buffing and Nerfing.md"
+    },
+    {
+      "basename": "Damage as a Save",
+      "path": "Hazards/Hazard Mechanics/Damage as a Save.md"
+    },
+    {
+      "basename": "Damage as an Attack",
+      "path": "Hazards/Hazard Mechanics/Damage as an Attack.md"
+    },
+    {
+      "basename": "Movement Alteration",
+      "path": "Hazards/Hazard Mechanics/Movement Alteration.md"
+    },
+    {
+      "basename": "Mechanical Activation",
+      "path": "Hazards/Hazard Mechanics/Mechanical Activation.md"
+    },
+    {
+      "basename": "Hazard Mechanic",
+      "path": "Templates/Hazards/Hazard Mechanic.md"
+    },
+    {
+      "basename": "Moving",
+      "path": "Hazards/Hazard Mechanics/Moving.md"
+    },
+    {
+      "basename": "Mechanic",
+      "path": "Templates/Game Design/Mechanic.md"
+    },
+    {
+      "basename": "Character",
+      "path": "Templates/Characters/Character.md"
+    },
+    {
+      "basename": "Cover",
+      "path": "Hazards/Hazard Mechanics/Cover.md"
+    },
+    {
+      "basename": "Hazard Mechanics",
+      "path": "Hazards/Hazard Mechanics/Hazard Mechanics.md"
+    },
+    {
+      "basename": "Folder Note Template",
+      "path": "Templates/Categories/Folder Note Template.md"
+    },
+    {
+      "basename": "Building a Hazard",
+      "path": "Hazards/Building a Hazard.md"
+    },
+    {
       "basename": "Hazards",
       "path": "Hazards/Hazards.md"
     },
@@ -41,10 +93,6 @@
       "path": "Templates/Location/Location- Nation.md"
     },
     {
-      "basename": "Character",
-      "path": "Templates/Characters/Character.md"
-    },
-    {
       "basename": "02- Best Practices",
       "path": "Documentation/02- Best Practices.md"
     },
@@ -55,10 +103,6 @@
     {
       "basename": "03- Community Plugins",
       "path": "Documentation/03- Community Plugins.md"
-    },
-    {
-      "basename": "Folder Note Template",
-      "path": "Templates/Categories/Folder Note Template.md"
     },
     {
       "basename": "folder-notes-example",
@@ -155,50 +199,6 @@
     {
       "basename": "Location- Dungeon",
       "path": "Templates/Location/Location- Dungeon.md"
-    },
-    {
-      "basename": "Location- Cosmology",
-      "path": "Templates/Location/Location- Cosmology.md"
-    },
-    {
-      "basename": "Life- Humanoid",
-      "path": "Templates/Life/Life- Humanoid.md"
-    },
-    {
-      "basename": "Life- Plant",
-      "path": "Templates/Life/Life- Plant.md"
-    },
-    {
-      "basename": "Life- Magical",
-      "path": "Templates/Life/Life- Magical.md"
-    },
-    {
-      "basename": "Life- Animal",
-      "path": "Templates/Life/Life- Animal.md"
-    },
-    {
-      "basename": "Group- Population",
-      "path": "Templates/Groups/Group- Population.md"
-    },
-    {
-      "basename": "Group- Political",
-      "path": "Templates/Groups/Group- Political.md"
-    },
-    {
-      "basename": "Group- General",
-      "path": "Templates/Groups/Group- General.md"
-    },
-    {
-      "basename": "Group- Commercial",
-      "path": "Templates/Groups/Group- Commercial.md"
-    },
-    {
-      "basename": "Group- Combat",
-      "path": "Templates/Groups/Group- Combat.md"
-    },
-    {
-      "basename": "Event",
-      "path": "Templates/Events/Event.md"
     }
   ],
   "omittedPaths": [],

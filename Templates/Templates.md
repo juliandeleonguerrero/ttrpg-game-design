@@ -18,6 +18,8 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Character]]
 - **Events**
 	- [[Event]]
+- **Game Design**
+	- [[Mechanic]]
 - **Groups**
 	- [[Group- Combat]]
 	- [[Group- Commercial]]
@@ -25,6 +27,8 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Group- Political]]
 	- [[Group- Population]]
 	- [[Group- Religious]]
+- **Hazards**
+	- [[Hazard Mechanic]]
 - **Life**
 	- [[Life- Animal]]
 	- [[Life- Humanoid]]

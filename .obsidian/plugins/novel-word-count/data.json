@@ -43,19 +43,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 200,
+      "wordCount": 206,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6666666666666666,
-      "characterCount": 1939,
-      "nonWhitespaceCharacterCount": 1569,
-      "readingTimeInMinutes": 0.7547169811320755,
-      "linkCount": 44,
+      "pageCount": 0.6866666666666666,
+      "characterCount": 1955,
+      "nonWhitespaceCharacterCount": 1628,
+      "readingTimeInMinutes": 0.7773584905660378,
+      "linkCount": 46,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728447726682,
-      "modifiedDate": 1728447726682,
-      "sizeInBytes": 1966,
+      "modifiedDate": 1728451424381,
+      "sizeInBytes": 1982,
       "frontmatter": {
         "tags": [
           "category"
@@ -1030,15 +1030,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.08666666666666667,
-      "characterCount": 560,
+      "characterCount": 521,
       "nonWhitespaceCharacterCount": 333,
       "readingTimeInMinutes": 0.09811320754716982,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1728447726671,
-      "modifiedDate": 1728447726671,
-      "sizeInBytes": 588,
+      "modifiedDate": 1728451384074,
+      "sizeInBytes": 546,
       "frontmatter": {
         "tags": [
           "character"
@@ -1103,15 +1103,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.016666666666666666,
-      "characterCount": 61,
+      "characterCount": 53,
       "nonWhitespaceCharacterCount": 38,
       "readingTimeInMinutes": 0.018867924528301886,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728447726670,
-      "modifiedDate": 1728447726670,
-      "sizeInBytes": 88,
+      "modifiedDate": 1728450995563,
+      "sizeInBytes": 77,
       "frontmatter": {
         "tags": [
           "category"
@@ -2435,22 +2435,23 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 83,
+      "wordCount": 104,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 570,
-      "nonWhitespaceCharacterCount": 475,
-      "readingTimeInMinutes": 0.3132075471698113,
-      "linkCount": 0,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 777,
+      "nonWhitespaceCharacterCount": 646,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728448267996,
-      "modifiedDate": 1728448750198,
-      "sizeInBytes": 596,
+      "modifiedDate": 1728488380601,
+      "sizeInBytes": 814,
       "frontmatter": {
         "tags": [
-          "category"
+          "category",
+          "hazard"
         ]
       }
     },
@@ -2475,6 +2476,261 @@
         "tags": [
           "dungeon",
           "location"
+        ]
+      }
+    },
+    "Hazards/Building a Hazard.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 177,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.59,
+      "characterCount": 1061,
+      "nonWhitespaceCharacterCount": 873,
+      "readingTimeInMinutes": 0.6679245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728449942285,
+      "modifiedDate": 1728450864663,
+      "sizeInBytes": 1085,
+      "frontmatter": {
+        "tags": [
+          "hazard"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Hazard Mechanics.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 145,
+      "nonWhitespaceCharacterCount": 111,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728450950071,
+      "modifiedDate": 1728451042217,
+      "sizeInBytes": 171,
+      "frontmatter": {
+        "tags": [
+          "category"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Cover.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 233,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451115349,
+      "modifiedDate": 1728451244835,
+      "sizeInBytes": 296,
+      "frontmatter": {
+        "tags": [
+          "hazard"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Moving.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 204,
+      "nonWhitespaceCharacterCount": 168,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451249183,
+      "modifiedDate": 1728451313842,
+      "sizeInBytes": 241,
+      "frontmatter": {
+        "tags": [
+          "hazard",
+          "mechanic"
+        ]
+      }
+    },
+    "Templates/Game Design/Mechanic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 24,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451359172,
+      "modifiedDate": 1728451400166,
+      "sizeInBytes": 58,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
+        ]
+      }
+    },
+    "Templates/Hazards/Hazard Mechanic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 24,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451408386,
+      "modifiedDate": 1728451462184,
+      "sizeInBytes": 60,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Mechanical Activation.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 306,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451328566,
+      "modifiedDate": 1728451979911,
+      "sizeInBytes": 406,
+      "frontmatter": {
+        "tags": [
+          "hazard",
+          "mechanic"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Movement Alteration.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 289,
+      "nonWhitespaceCharacterCount": 239,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728452243080,
+      "modifiedDate": 1728488328777,
+      "sizeInBytes": 315,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Damage as an Attack.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 75,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25,
+      "characterCount": 439,
+      "nonWhitespaceCharacterCount": 356,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728451987790,
+      "modifiedDate": 1728488348061,
+      "sizeInBytes": 465,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Damage as a Save.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 82,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 455,
+      "nonWhitespaceCharacterCount": 365,
+      "readingTimeInMinutes": 0.30943396226415093,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728452100747,
+      "modifiedDate": 1728452238235,
+      "sizeInBytes": 481,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
+        ]
+      }
+    },
+    "Hazards/Hazard Mechanics/Buffing and Nerfing.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 115,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728488365045,
+      "modifiedDate": 1728488420399,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "tags": [
+          "mechanic"
         ]
       }
     }

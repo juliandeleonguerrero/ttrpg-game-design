@@ -8,4 +8,4 @@ tags:
 
 # Table of Contents
 
-%% Waypoint % %
+%% Landmark % %
