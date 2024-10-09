@@ -1,0 +1,2435 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "word",
+    "countTypeSuffix": "w",
+    "frontmatterKey": "",
+    "countType2": "none",
+    "countType2Suffix": "",
+    "frontmatterKey2": "",
+    "countType3": "none",
+    "countType3Suffix": "",
+    "frontmatterKey3": "",
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountTypeSuffix": "w",
+    "folderCountType2": "none",
+    "folderCountType2Suffix": "",
+    "folderCountType3": "none",
+    "folderCountType3Suffix": "",
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showAdvanced": false,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "Templates/Templates.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 200,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6666666666666666,
+      "characterCount": 1939,
+      "nonWhitespaceCharacterCount": 1569,
+      "readingTimeInMinutes": 0.7547169811320755,
+      "linkCount": 44,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726682,
+      "modifiedDate": 1728447726682,
+      "sizeInBytes": 1966,
+      "frontmatter": {
+        "tags": [
+          "category"
+        ]
+      }
+    },
+    "Templates/Society/Society- Religion.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 606,
+      "nonWhitespaceCharacterCount": 379,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726682,
+      "modifiedDate": 1728447726682,
+      "sizeInBytes": 644,
+      "frontmatter": {
+        "tags": [
+          "society",
+          "religion"
+        ]
+      }
+    },
+    "Templates/Society/Society- Occupation.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 251,
+      "nonWhitespaceCharacterCount": 168,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726682,
+      "modifiedDate": 1728447726682,
+      "sizeInBytes": 284,
+      "frontmatter": {
+        "tags": [
+          "job",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Lore.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 31,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726681,
+      "modifiedDate": 1728447726681,
+      "sizeInBytes": 95,
+      "frontmatter": {
+        "tags": [
+          "lore",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Language.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 307,
+      "nonWhitespaceCharacterCount": 195,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726681,
+      "modifiedDate": 1728447726681,
+      "sizeInBytes": 349,
+      "frontmatter": {
+        "tags": [
+          "society",
+          "language"
+        ]
+      }
+    },
+    "Templates/Society/Society- Industry.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 284,
+      "nonWhitespaceCharacterCount": 196,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726681,
+      "modifiedDate": 1728447726681,
+      "sizeInBytes": 326,
+      "frontmatter": {
+        "tags": [
+          "society",
+          "industry"
+        ]
+      }
+    },
+    "Templates/Society/Society- Folklore.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 156,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726681,
+      "modifiedDate": 1728447726681,
+      "sizeInBytes": 273,
+      "frontmatter": {
+        "tags": [
+          "lore",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Education.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 249,
+      "nonWhitespaceCharacterCount": 163,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726680,
+      "modifiedDate": 1728447726681,
+      "sizeInBytes": 288,
+      "frontmatter": {
+        "tags": [
+          "education",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Economics.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 161,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726680,
+      "modifiedDate": 1728447726680,
+      "sizeInBytes": 278,
+      "frontmatter": {
+        "tags": [
+          "economy",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Customs.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 160,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726680,
+      "modifiedDate": 1728447726680,
+      "sizeInBytes": 270,
+      "frontmatter": {
+        "tags": [
+          "customs",
+          "society"
+        ]
+      }
+    },
+    "Templates/Society/Society- Art.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 284,
+      "nonWhitespaceCharacterCount": 179,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726680,
+      "modifiedDate": 1728447726680,
+      "sizeInBytes": 317,
+      "frontmatter": {
+        "tags": [
+          "art",
+          "society"
+        ]
+      }
+    },
+    "Templates/Narrative/Session Note.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 72,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726679,
+      "modifiedDate": 1728447726679,
+      "sizeInBytes": 108
+    },
+    "Templates/Material/Material- Weather.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 295,
+      "nonWhitespaceCharacterCount": 194,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726679,
+      "modifiedDate": 1728447726679,
+      "sizeInBytes": 333,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "climate"
+        ]
+      }
+    },
+    "Templates/Material/Material- Resource.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 359,
+      "nonWhitespaceCharacterCount": 228,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726679,
+      "modifiedDate": 1728447726679,
+      "sizeInBytes": 398,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "resource"
+        ]
+      }
+    },
+    "Templates/Material/Material- Object.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 274,
+      "nonWhitespaceCharacterCount": 174,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726679,
+      "modifiedDate": 1728447726679,
+      "sizeInBytes": 311,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "object"
+        ]
+      }
+    },
+    "Templates/Material/Material- Metaphysics.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 155,
+      "nonWhitespaceCharacterCount": 107,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726678,
+      "modifiedDate": 1728447726678,
+      "sizeInBytes": 192,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "physic"
+        ]
+      }
+    },
+    "Templates/Material/Material- Maps.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 288,
+      "nonWhitespaceCharacterCount": 195,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726678,
+      "modifiedDate": 1728447726678,
+      "sizeInBytes": 322,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "map"
+        ]
+      }
+    },
+    "Templates/Material/Material- Magic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 166,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726678,
+      "modifiedDate": 1728447726678,
+      "sizeInBytes": 295,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "magic"
+        ]
+      }
+    },
+    "Templates/Material/Material- Geography.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 70,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726678,
+      "modifiedDate": 1728447726678,
+      "sizeInBytes": 155,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "geography"
+        ]
+      }
+    },
+    "Templates/Material/Material- Currency.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 286,
+      "nonWhitespaceCharacterCount": 191,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726677,
+      "modifiedDate": 1728447726678,
+      "sizeInBytes": 336,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "currency",
+          "economy"
+        ]
+      }
+    },
+    "Templates/Material/Material- Crop.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 372,
+      "nonWhitespaceCharacterCount": 242,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726677,
+      "modifiedDate": 1728447726677,
+      "sizeInBytes": 418,
+      "frontmatter": {
+        "tags": [
+          "agriculture",
+          "material"
+        ]
+      }
+    },
+    "Templates/Material/Material- Afflictions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 352,
+      "nonWhitespaceCharacterCount": 226,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726677,
+      "modifiedDate": 1728447726677,
+      "sizeInBytes": 393,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "affliction"
+        ]
+      }
+    },
+    "Templates/Location/Location- Settlement.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 437,
+      "nonWhitespaceCharacterCount": 283,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726677,
+      "modifiedDate": 1728447726677,
+      "sizeInBytes": 478,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "settlement"
+        ]
+      }
+    },
+    "Templates/Location/Location- Region.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 254,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726676,
+      "modifiedDate": 1728447726676,
+      "sizeInBytes": 430,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "region"
+        ]
+      }
+    },
+    "Templates/Location/Location- Natural.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 320,
+      "nonWhitespaceCharacterCount": 205,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726676,
+      "modifiedDate": 1728447726676,
+      "sizeInBytes": 358,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "natural"
+        ]
+      }
+    },
+    "Templates/Location/Location- Nation.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 812,
+      "nonWhitespaceCharacterCount": 511,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726676,
+      "modifiedDate": 1728447726676,
+      "sizeInBytes": 890,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "region",
+          "polity",
+          "nation",
+          "society"
+        ]
+      }
+    },
+    "Templates/Location/Location- Landmark.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 271,
+      "nonWhitespaceCharacterCount": 179,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726676,
+      "modifiedDate": 1728447726676,
+      "sizeInBytes": 310,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "landmark"
+        ]
+      }
+    },
+    "Templates/Location/Location- Establishment.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 273,
+      "nonWhitespaceCharacterCount": 176,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726675,
+      "modifiedDate": 1728447726676,
+      "sizeInBytes": 317,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "establishment"
+        ]
+      }
+    },
+    "Templates/Location/Location- Dungeon.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 333,
+      "nonWhitespaceCharacterCount": 211,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726675,
+      "modifiedDate": 1728447726675,
+      "sizeInBytes": 389,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "landmark",
+          "dungeon"
+        ]
+      }
+    },
+    "Templates/Location/Location- Cosmology.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 390,
+      "nonWhitespaceCharacterCount": 255,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726675,
+      "modifiedDate": 1728447726675,
+      "sizeInBytes": 426,
+      "frontmatter": {
+        "tags": [
+          "location",
+          "space"
+        ]
+      }
+    },
+    "Templates/Life/Life- Plant.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 262,
+      "nonWhitespaceCharacterCount": 178,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726674,
+      "modifiedDate": 1728447726675,
+      "sizeInBytes": 294,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "plant"
+        ]
+      }
+    },
+    "Templates/Life/Life- Magical.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 207,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726674,
+      "modifiedDate": 1728447726674,
+      "sizeInBytes": 340,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "magic"
+        ]
+      }
+    },
+    "Templates/Life/Life- Humanoid.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 533,
+      "nonWhitespaceCharacterCount": 338,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726674,
+      "modifiedDate": 1728447726674,
+      "sizeInBytes": 568,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "humanoid"
+        ]
+      }
+    },
+    "Templates/Life/Life- Animal.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 205,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726674,
+      "modifiedDate": 1728447726674,
+      "sizeInBytes": 341,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "animal"
+        ]
+      }
+    },
+    "Templates/Groups/Group- Religious.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 359,
+      "nonWhitespaceCharacterCount": 238,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726673,
+      "modifiedDate": 1728447726673,
+      "sizeInBytes": 395,
+      "frontmatter": {
+        "tags": [
+          "religion",
+          "group"
+        ]
+      }
+    },
+    "Templates/Groups/Group- Population.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 303,
+      "nonWhitespaceCharacterCount": 202,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726673,
+      "modifiedDate": 1728447726673,
+      "sizeInBytes": 341,
+      "frontmatter": {
+        "tags": [
+          "population",
+          "group"
+        ]
+      }
+    },
+    "Templates/Groups/Group- Political.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 338,
+      "nonWhitespaceCharacterCount": 228,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726673,
+      "modifiedDate": 1728447726673,
+      "sizeInBytes": 375,
+      "frontmatter": {
+        "tags": [
+          "political",
+          "group"
+        ]
+      }
+    },
+    "Templates/Groups/Group- General.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 220,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726672,
+      "modifiedDate": 1728447726672,
+      "sizeInBytes": 371,
+      "frontmatter": {
+        "tags": [
+          "general",
+          "group"
+        ]
+      }
+    },
+    "Templates/Groups/Group- Commercial.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 295,
+      "nonWhitespaceCharacterCount": 194,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726672,
+      "modifiedDate": 1728447726672,
+      "sizeInBytes": 333,
+      "frontmatter": {
+        "tags": [
+          "commercial",
+          "group"
+        ]
+      }
+    },
+    "Templates/Groups/Group- Combat.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 224,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726672,
+      "modifiedDate": 1728447726672,
+      "sizeInBytes": 377,
+      "frontmatter": {
+        "tags": [
+          "combat",
+          "group"
+        ]
+      }
+    },
+    "Templates/Events/Event.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 278,
+      "nonWhitespaceCharacterCount": 184,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726671,
+      "modifiedDate": 1728447726672,
+      "sizeInBytes": 328,
+      "frontmatter": {
+        "tags": [
+          "event",
+          "timeline"
+        ],
+        "fc-date": null
+      }
+    },
+    "Templates/Characters/Character.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 560,
+      "nonWhitespaceCharacterCount": 333,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726671,
+      "modifiedDate": 1728447726671,
+      "sizeInBytes": 588,
+      "frontmatter": {
+        "tags": [
+          "character"
+        ]
+      }
+    },
+    "Templates/Characters/Character- Royalty.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 587,
+      "nonWhitespaceCharacterCount": 337,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726671,
+      "modifiedDate": 1728447726671,
+      "sizeInBytes": 643,
+      "frontmatter": {
+        "tags": [
+          "character",
+          "royal",
+          "political"
+        ]
+      }
+    },
+    "Templates/Characters/Character- God.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 508,
+      "nonWhitespaceCharacterCount": 307,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1728447726670,
+      "modifiedDate": 1728447726670,
+      "sizeInBytes": 561,
+      "frontmatter": {
+        "tags": [
+          "character",
+          "religion",
+          "god"
+        ]
+      }
+    },
+    "Templates/Categories/Folder Note Template.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 38,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726670,
+      "modifiedDate": 1728447726670,
+      "sizeInBytes": 88,
+      "frontmatter": {
+        "tags": [
+          "category"
+        ]
+      }
+    },
+    "Society/Society.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 260,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8666666666666667,
+      "characterCount": 2021,
+      "nonWhitespaceCharacterCount": 1648,
+      "readingTimeInMinutes": 0.9811320754716981,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726670,
+      "modifiedDate": 1728447726670,
+      "sizeInBytes": 2062,
+      "frontmatter": {
+        "tags": [
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Religion/Religion.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 294,
+      "nonWhitespaceCharacterCount": 232,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726669,
+      "modifiedDate": 1728447726670,
+      "sizeInBytes": 347,
+      "frontmatter": {
+        "tags": [
+          "religion",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Occupations/Occupations.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 141,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726669,
+      "modifiedDate": 1728447726669,
+      "sizeInBytes": 243,
+      "frontmatter": {
+        "tags": [
+          "occupation",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Lore/Lore.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 194,
+      "nonWhitespaceCharacterCount": 148,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726669,
+      "modifiedDate": 1728447726669,
+      "sizeInBytes": 243,
+      "frontmatter": {
+        "tags": [
+          "society",
+          "lore",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Language/Language.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 143,
+      "nonWhitespaceCharacterCount": 103,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726668,
+      "modifiedDate": 1728447726669,
+      "sizeInBytes": 196,
+      "frontmatter": {
+        "tags": [
+          "language",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Industry/Industry.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726668,
+      "modifiedDate": 1728447726668,
+      "sizeInBytes": 241,
+      "frontmatter": {
+        "tags": [
+          "industry",
+          "folder-note",
+          "society"
+        ]
+      }
+    },
+    "Society/Education/Education.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 141,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726668,
+      "modifiedDate": 1728447726668,
+      "sizeInBytes": 239,
+      "frontmatter": {
+        "tags": [
+          "education",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Economics/Economics.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 132,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726667,
+      "modifiedDate": 1728447726668,
+      "sizeInBytes": 228,
+      "frontmatter": {
+        "tags": [
+          "economy",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Customs/Customs.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 207,
+      "nonWhitespaceCharacterCount": 160,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726667,
+      "modifiedDate": 1728447726667,
+      "sizeInBytes": 259,
+      "frontmatter": {
+        "tags": [
+          "customs",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "Society/Art/Art.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 173,
+      "readingTimeInMinutes": 0.10566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726667,
+      "modifiedDate": 1728447726667,
+      "sizeInBytes": 272,
+      "frontmatter": {
+        "tags": [
+          "art",
+          "society",
+          "folder-note"
+        ]
+      }
+    },
+    "README.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 288,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.96,
+      "characterCount": 1881,
+      "nonWhitespaceCharacterCount": 1533,
+      "readingTimeInMinutes": 1.0867924528301887,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726666,
+      "modifiedDate": 1728447726666,
+      "sizeInBytes": 1915,
+      "frontmatter": {
+        "tags": [
+          "documentation"
+        ]
+      }
+    },
+    "Narrative and Planning/Storylines/Storylines.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 76,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 503,
+      "nonWhitespaceCharacterCount": 401,
+      "readingTimeInMinutes": 0.28679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726666,
+      "modifiedDate": 1728447726666,
+      "sizeInBytes": 544,
+      "frontmatter": {
+        "tags": [
+          "narrate",
+          "folder-note"
+        ]
+      }
+    },
+    "Narrative and Planning/Session Notes/Session Notes.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 361,
+      "nonWhitespaceCharacterCount": 285,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726666,
+      "modifiedDate": 1728447726666,
+      "sizeInBytes": 402,
+      "frontmatter": {
+        "tags": [
+          "narrate",
+          "folder-note"
+        ]
+      }
+    },
+    "Narrative and Planning/Narrative and Planning.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 337,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726665,
+      "modifiedDate": 1728447726666,
+      "sizeInBytes": 477,
+      "frontmatter": {
+        "tags": [
+          "planning",
+          "narrate",
+          "folder-note"
+        ]
+      }
+    },
+    "Narrative and Planning/About/About.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 400,
+      "nonWhitespaceCharacterCount": 323,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726665,
+      "modifiedDate": 1728447726665,
+      "sizeInBytes": 462,
+      "frontmatter": {
+        "tags": [
+          "about",
+          "narrate",
+          "planning",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Resources/Resources.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 181,
+      "nonWhitespaceCharacterCount": 137,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726665,
+      "modifiedDate": 1728447726665,
+      "sizeInBytes": 235,
+      "frontmatter": {
+        "tags": [
+          "resource",
+          "material",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Objects/Objects.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 172,
+      "nonWhitespaceCharacterCount": 129,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726664,
+      "modifiedDate": 1728447726665,
+      "sizeInBytes": 224,
+      "frontmatter": {
+        "tags": [
+          "object",
+          "material",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Metaphysics/Metaphysics.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 217,
+      "nonWhitespaceCharacterCount": 164,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726664,
+      "modifiedDate": 1728447726664,
+      "sizeInBytes": 269,
+      "frontmatter": {
+        "tags": [
+          "physic",
+          "material",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Material.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 168,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.56,
+      "characterCount": 1334,
+      "nonWhitespaceCharacterCount": 1057,
+      "readingTimeInMinutes": 0.6339622641509434,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726664,
+      "modifiedDate": 1728447726664,
+      "sizeInBytes": 1376,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Maps/Maps.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 127,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726664,
+      "modifiedDate": 1728447726664,
+      "sizeInBytes": 222,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "map",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Magic/Magic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 163,
+      "nonWhitespaceCharacterCount": 119,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726663,
+      "modifiedDate": 1728447726663,
+      "sizeInBytes": 214,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "magic",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Geography/Geography.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 57,
+      "nonWhitespaceCharacterCount": 37,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726663,
+      "modifiedDate": 1728447726663,
+      "sizeInBytes": 101,
+      "frontmatter": {
+        "tags": [
+          "category",
+          "geography"
+        ]
+      }
+    },
+    "Material/Currency/Currency.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 103,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726663,
+      "modifiedDate": 1728447726663,
+      "sizeInBytes": 206,
+      "frontmatter": {
+        "tags": [
+          "currency",
+          "material",
+          "folder-note",
+          "economy"
+        ]
+      }
+    },
+    "Material/Climate/Climate.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 154,
+      "nonWhitespaceCharacterCount": 113,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726662,
+      "modifiedDate": 1728447726662,
+      "sizeInBytes": 207,
+      "frontmatter": {
+        "tags": [
+          "climate",
+          "material",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Agriculture/Agriculture.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 140,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726662,
+      "modifiedDate": 1728447726662,
+      "sizeInBytes": 242,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "agriculture",
+          "folder-note"
+        ]
+      }
+    },
+    "Material/Afflictions/Afflictions.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 155,
+      "nonWhitespaceCharacterCount": 114,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726662,
+      "modifiedDate": 1728447726662,
+      "sizeInBytes": 211,
+      "frontmatter": {
+        "tags": [
+          "material",
+          "affliction",
+          "folder-note"
+        ]
+      }
+    },
+    "Locations/Locations.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 274,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9133333333333333,
+      "characterCount": 1912,
+      "nonWhitespaceCharacterCount": 1555,
+      "readingTimeInMinutes": 1.0339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726661,
+      "modifiedDate": 1728447726661,
+      "sizeInBytes": 1954,
+      "frontmatter": {
+        "Tags": [
+          "location",
+          "folder-note"
+        ]
+      }
+    },
+    "Life/Magical/Magical.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 111,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726661,
+      "modifiedDate": 1728447726661,
+      "sizeInBytes": 196,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "magic",
+          "folder-note"
+        ]
+      }
+    },
+    "Life/Life.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 963,
+      "nonWhitespaceCharacterCount": 767,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726661,
+      "modifiedDate": 1728447726661,
+      "sizeInBytes": 1001,
+      "frontmatter": {
+        "tags": [
+          "life",
+          "folder-note"
+        ]
+      }
+    },
+    "Life/Humanoids/Humanoids.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 167,
+      "nonWhitespaceCharacterCount": 139,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726660,
+      "modifiedDate": 1728447726660,
+      "sizeInBytes": 228,
+      "frontmatter": {
+        "tags": [
+          "species",
+          "humanoid",
+          "life",
+          "folder-note"
+        ]
+      }
+    },
+    "Life/Flora/Flora.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 123,
+      "nonWhitespaceCharacterCount": 90,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726660,
+      "modifiedDate": 1728447726660,
+      "sizeInBytes": 170,
+      "frontmatter": {
+        "tags": [
+          "plant",
+          "life",
+          "folder-note"
+        ]
+      }
+    },
+    "Life/Fauna/Fauna.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 96,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726660,
+      "modifiedDate": 1728447726660,
+      "sizeInBytes": 192,
+      "frontmatter": {
+        "tags": [
+          "species",
+          "animal",
+          "life",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Religious/Religious.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 10,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726659,
+      "modifiedDate": 1728447726659,
+      "sizeInBytes": 64,
+      "frontmatter": {
+        "tags": [
+          "religion",
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Population/Population.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726659,
+      "modifiedDate": 1728447726659,
+      "sizeInBytes": 67,
+      "frontmatter": {
+        "tags": [
+          "group",
+          "population",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Political/Political.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 10,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726659,
+      "modifiedDate": 1728447726659,
+      "sizeInBytes": 65,
+      "frontmatter": {
+        "tags": [
+          "political",
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Groups.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 148,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49333333333333335,
+      "characterCount": 1214,
+      "nonWhitespaceCharacterCount": 983,
+      "readingTimeInMinutes": 0.5584905660377358,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726658,
+      "modifiedDate": 1728447726658,
+      "sizeInBytes": 1253,
+      "frontmatter": {
+        "tags": [
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Commercial/Commercial.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726657,
+      "modifiedDate": 1728447726657,
+      "sizeInBytes": 67,
+      "frontmatter": {
+        "tags": [
+          "commercial",
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/General/General.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 11,
+      "nonWhitespaceCharacterCount": 8,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726657,
+      "modifiedDate": 1728447726657,
+      "sizeInBytes": 61,
+      "frontmatter": {
+        "tags": [
+          "general",
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Groups/Combat/Combat.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 10,
+      "nonWhitespaceCharacterCount": 7,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726657,
+      "modifiedDate": 1728447726657,
+      "sizeInBytes": 59,
+      "frontmatter": {
+        "tags": [
+          "combat",
+          "group",
+          "folder-note"
+        ]
+      }
+    },
+    "Events/Events.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 829,
+      "nonWhitespaceCharacterCount": 658,
+      "readingTimeInMinutes": 0.47924528301886793,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726656,
+      "modifiedDate": 1728447726656,
+      "sizeInBytes": 870,
+      "frontmatter": {
+        "Tags": [
+          "event",
+          "folder-note"
+        ]
+      }
+    },
+    "Documentation/Images/wikipedia-outline.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726656,
+      "modifiedDate": 1728447726656,
+      "sizeInBytes": 30690
+    },
+    "Documentation/Images/waypoint-example.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726655,
+      "modifiedDate": 1728447726655,
+      "sizeInBytes": 3512
+    },
+    "Documentation/Images/template-screenshot.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726655,
+      "modifiedDate": 1728447726655,
+      "sizeInBytes": 18102
+    },
+    "Documentation/Images/tags-example-gods.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726655,
+      "modifiedDate": 1728447726655,
+      "sizeInBytes": 19330
+    },
+    "Documentation/Images/quick-tagger-example.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726654,
+      "modifiedDate": 1728447726655,
+      "sizeInBytes": 29566
+    },
+    "Documentation/Images/infobox-callout-its-pre-example.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726654,
+      "modifiedDate": 1728447726654,
+      "sizeInBytes": 51787
+    },
+    "Documentation/Images/infobox-callout-its-example.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726654,
+      "modifiedDate": 1728447726654,
+      "sizeInBytes": 196902
+    },
+    "Documentation/Images/headers-outline.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726652,
+      "modifiedDate": 1728447726653,
+      "sizeInBytes": 28688
+    },
+    "Documentation/Images/folder-notes-example.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726652,
+      "modifiedDate": 1728447726652,
+      "sizeInBytes": 3928
+    },
+    "Documentation/Images/file-explorer-obsidian-getting-started.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728447726652,
+      "modifiedDate": 1728447726652,
+      "sizeInBytes": 67190
+    },
+    "Documentation/Documentation.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 48,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16,
+      "characterCount": 399,
+      "nonWhitespaceCharacterCount": 318,
+      "readingTimeInMinutes": 0.1811320754716981,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726651,
+      "modifiedDate": 1728447726651,
+      "sizeInBytes": 446,
+      "frontmatter": {
+        "tags": [
+          "documentation",
+          "folder-note"
+        ]
+      }
+    },
+    "Documentation/04- Git and Obsidian.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 382,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2733333333333334,
+      "characterCount": 2500,
+      "nonWhitespaceCharacterCount": 2043,
+      "readingTimeInMinutes": 1.441509433962264,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726651,
+      "modifiedDate": 1728447726651,
+      "sizeInBytes": 2534,
+      "frontmatter": {
+        "tags": [
+          "documentation"
+        ]
+      }
+    },
+    "Documentation/03- Community Plugins.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1397,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.656666666666666,
+      "characterCount": 10100,
+      "nonWhitespaceCharacterCount": 8440,
+      "readingTimeInMinutes": 5.271698113207547,
+      "linkCount": 5,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1728447726651,
+      "modifiedDate": 1728447726651,
+      "sizeInBytes": 10134,
+      "frontmatter": {
+        "tags": [
+          "documentation"
+        ]
+      }
+    },
+    "Documentation/02- Best Practices.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 826,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.7533333333333334,
+      "characterCount": 5646,
+      "nonWhitespaceCharacterCount": 4619,
+      "readingTimeInMinutes": 3.116981132075472,
+      "linkCount": 1,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1728447726650,
+      "modifiedDate": 1728447726650,
+      "sizeInBytes": 5680,
+      "frontmatter": {
+        "tags": [
+          "documentation"
+        ]
+      }
+    },
+    "Documentation/01- Getting Started.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 370,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2333333333333334,
+      "characterCount": 2530,
+      "nonWhitespaceCharacterCount": 2095,
+      "readingTimeInMinutes": 1.3962264150943395,
+      "linkCount": 1,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1728447726650,
+      "modifiedDate": 1728447726650,
+      "sizeInBytes": 2564,
+      "frontmatter": {
+        "tags": [
+          "documentation"
+        ]
+      }
+    },
+    "Characters/Characters.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 472,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5733333333333333,
+      "characterCount": 3586,
+      "nonWhitespaceCharacterCount": 2900,
+      "readingTimeInMinutes": 1.7811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728447726650,
+      "modifiedDate": 1728447726650,
+      "sizeInBytes": 3629,
+      "frontmatter": {
+        "tags": [
+          "character",
+          "folder-note"
+        ]
+      }
+    }
+  }
+}
