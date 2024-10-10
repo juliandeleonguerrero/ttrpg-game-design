@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Moving",
+      "path": "Hazards/Hazard Mechanics/Moving.md"
+    },
+    {
+      "basename": "Environment-Altering",
+      "path": "Hazards/Hazard Mechanics/Environment-Altering.md"
+    },
+    {
+      "basename": "Destroyable",
+      "path": "Hazards/Hazard Mechanics/Destroyable.md"
+    },
+    {
+      "basename": "Activation",
+      "path": "Hazards/Hazard Mechanics/Activation.md"
+    },
+    {
+      "basename": "Damage as an Attack",
+      "path": "Hazards/Hazard Mechanics/Damage as an Attack.md"
+    },
+    {
       "basename": "Buffing and Nerfing",
       "path": "Hazards/Hazard Mechanics/Buffing and Nerfing.md"
     },
@@ -9,24 +29,12 @@
       "path": "Hazards/Hazard Mechanics/Damage as a Save.md"
     },
     {
-      "basename": "Damage as an Attack",
-      "path": "Hazards/Hazard Mechanics/Damage as an Attack.md"
-    },
-    {
       "basename": "Movement Alteration",
       "path": "Hazards/Hazard Mechanics/Movement Alteration.md"
     },
     {
-      "basename": "Mechanical Activation",
-      "path": "Hazards/Hazard Mechanics/Mechanical Activation.md"
-    },
-    {
       "basename": "Hazard Mechanic",
       "path": "Templates/Hazards/Hazard Mechanic.md"
-    },
-    {
-      "basename": "Moving",
-      "path": "Hazards/Hazard Mechanics/Moving.md"
     },
     {
       "basename": "Mechanic",
@@ -191,14 +199,6 @@
     {
       "basename": "Location- Landmark",
       "path": "Templates/Location/Location- Landmark.md"
-    },
-    {
-      "basename": "Location- Establishment",
-      "path": "Templates/Location/Location- Establishment.md"
-    },
-    {
-      "basename": "Location- Dungeon",
-      "path": "Templates/Location/Location- Dungeon.md"
     }
   ],
   "omittedPaths": [],

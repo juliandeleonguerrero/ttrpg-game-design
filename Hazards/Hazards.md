@@ -14,11 +14,13 @@ Hazards in TTRPGs usually do not exist as the main enemies in an ongoing encount
 %% Begin Waypoint %%
 - [[Building a Hazard]]
 - **[[Hazard Mechanics]]**
+	- [[Activation]]
 	- [[Buffing and Nerfing]]
 	- [[Cover]]
 	- [[Damage as a Save]]
 	- [[Damage as an Attack]]
-	- [[Mechanical Activation]]
+	- [[Destroyable]]
+	- [[Environment-Altering]]
 	- [[Movement Alteration]]
 	- [[Moving]]
 

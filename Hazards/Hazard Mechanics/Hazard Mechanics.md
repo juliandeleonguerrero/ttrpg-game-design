@@ -9,11 +9,13 @@ There are a lot of ways that hazards can interact with the
 # Table of Contents
 
 %% Begin Landmark %%
+- [[Activation]]
 - [[Buffing and Nerfing]]
 - [[Cover]]
 - [[Damage as a Save]]
 - [[Damage as an Attack]]
-- [[Mechanical Activation]]
+- [[Destroyable]]
+- [[Environment-Altering]]
 - [[Movement Alteration]]
 - [[Moving]]
 

@@ -8,4 +8,6 @@ Where a hazard induces a buff or nerf to the characters that interact with the h
 
 # Examples
 
-- Berry bushes 
+- Berry bushes that offer healing or a beneficial condition
+- A gaseous cloud that causes a negative condition that weakens characters inside.
+- 
